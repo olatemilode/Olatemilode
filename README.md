@@ -1,6 +1,6 @@
 ## Hi there, Im Olatemilode👋
 I am a gradaute of Computer Science, blending  creativity and technology.
-<!--
+
 **olatemilode/Olatemilode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🚀 About Me
 
