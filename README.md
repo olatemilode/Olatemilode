@@ -1,13 +1,11 @@
 ## Hi there, Im Olatemilode👋
-I am a gradaute of Computer Science, blending  creativity and technology.
+I am a graduate of Computer Science, blending  creativity and technology.
 
-**olatemilode/Olatemilode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🚀 About Me
-
-
+- 🌐 Based in Nigeria 
 - 🔭 I'm currently learning DevOps at She Code Academy.
 - 📝 I create, redefine and experiment with fabrics.
-- 🌐 Proud member of the [She Code Agfrica](https://shecodeafrica.org/).
+- 🌐 Proud member of the [She Code Africa](https://shecodeafrica.org/).
 - ✍️ I am someone who loves turning ideas into reality and I enjoy learning and growing.
 
 ## 🌱 Currently Exploring
@@ -27,7 +25,7 @@ I am a gradaute of Computer Science, blending  creativity and technology.
 ## 🤔 Aspirations
 - I"m aiming to grow as a junior DevOps engineer 
 - I'm looking for opportunies to contrubute to projects
-- I'm looking internsip or junior roles to learn and expand my network
+- I'm looking for internship or junior roles to learn and expand my network
 
 
 
