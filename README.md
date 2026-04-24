@@ -1,32 +1,50 @@
 ## Hi there, Im Olatemilode👋
-I am a graduate of Computer Science, blending  creativity and technology.
+
+### Junior DevOps Engineer | AWS · Terraform · Docker · Linux · Git
 
 ## 🚀 About Me
-- 🌐 Based in Nigeria 
-- 🔭 I'm currently learning DevOps at She Code Academy.
-- 📝 I create, redefine and experiment with fabrics.
-- 🌐 Proud member of the [She Code Africa](https://shecodeafrica.org/).
-- ✍️ I am someone who loves turning ideas into reality and I enjoy learning and growing.
 
-## 🌱 Currently Exploring
+- 🌍 Based in Lagos, Nigeria
+- ☁️ Building real cloud infrastructure on AWS using Terraform
+- 🐳 Working with Docker and exploring Kubernetes
+- 🔧 Passionate about automation, CI/CD, and Infrastructure as Code
+- 🌱 Currently deepening skills in Kubernetes, GitHub Actions & monitoring tools
+- 🌐 Proud member of the [She Code Africa](https://shecodeafrica.org/). 
+- 🤝 Open to Junior DevOps / Cloud Engineering roles and internships
 
- - Learning automation, CI/CD pipleiness and cloud deployment
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Building scalable, effivient development environments.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+## 🛠️ Tech Stack
 
-  ## 📬 Get in Touch
+**Cloud & IaC**
+AWS (EC2, S3, VPC, IAM, Security Groups) · Terraform · Remote State Management
 
+**DevOps & Containers**
+Docker · Kubernetes (foundational) · CI/CD Pipelines · GitHub Actions
+
+**OS & Tools**
+Linux (Ubuntu/WSL) · Bash · Git · GitHub · VSCode
+
+
+## 📂 Featured Projects
+
+### ☁️ [AWS Infrastructure with Terraform](https://github.com/olatemilode/learn-terraform)
+Provisioned real AWS infrastructure using Terraform — custom VPC, EC2 instances, 
+S3 buckets, IAM roles, security groups, and remote state management with S3 backend.
+
+### 🐳 [Docker App](https://github.com/olatemilode/docker-app)
+Containerised a Python application using Docker — exploring container fundamentals, 
+Dockerfiles, and image management.
+
+### 🔧 [Git Assignment](https://github.com/olatemilode/git-assignment)
+Structured version control workflow — branching, commits, pull requests, 
+and pushing to remote repositories using Git and GitHub.
+
+
+## 📬 Let's Connect
 - Connect with me on [Twitter](https://twitter.com/olatemilode)
 - Connect with me on [Threads](https://www.threads.com/@olatemilode)
 - Connect with me on [LinkedIn](https://linkedin.com/in/folorunso-olamide-865159128?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-## 🤔 Aspirations
-- I"m aiming to grow as a junior DevOps engineer 
-- I'm looking for opportunies to contrubute to projects
-- I'm looking for internship or junior roles to learn and expand my network
-
+*"Still learning. Still building. Still evolving."* 🔥
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
