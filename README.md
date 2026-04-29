@@ -5,12 +5,11 @@
 ## 🚀 About Me
 
 - 🌍 Based in Lagos, Nigeria
-- ☁️ Building real cloud infrastructure on AWS using Terraform
+- ☁️ Building real cloud infrastructure 
 - 🐳 Working with Docker and exploring Kubernetes
 - 🔧 Passionate about automation, CI/CD, and Infrastructure as Code
-- 🌱 Currently deepening skills in Kubernetes, GitHub Actions & monitoring tools
 - 🌐 Proud member of the [She Code Africa](https://shecodeafrica.org/). 
-- 🤝 Open to Junior DevOps / Cloud Engineering roles and internships
+- 🤝 I also love turning idea into reality beyond tech 
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +36,13 @@ Dockerfiles, and image management.
 ### 🔧 [Git Assignment](https://github.com/olatemilode/git-assignment)
 Structured version control workflow — branching, commits, pull requests, 
 and pushing to remote repositories using Git and GitHub.
+
+
+## 🤝 Open To
+- Freelance DevOps & Cloud Engineering projects
+- Junior/Internship DevOps roles
+- Open source collaboration
+
 
 
 ## 📬 Let's Connect
